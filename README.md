@@ -1,1 +1,1 @@
-# auto_test_selenium_paithon_website
+# auto_test_selenium_python_website
